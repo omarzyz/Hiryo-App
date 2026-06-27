@@ -48,3 +48,21 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+
+
+// My Notes
+1)To run the app you would need:
+	node.js
+	expo go installed on the phone 
+	VS Code or a code editor
+2)Steps:
+	clone the repo.
+	and using the powershell terminal, open the app dir
+	use the (npm install)
+	and then (npx expo start) to start the mobile version, #(npm run web) for the web version on pc #(code . ) to view the code in a code editor 
+	the QR code will appear in the shell terminal , scan it with the phone, then  the app will start on the phone 
+
+
+
+
